@@ -19,7 +19,7 @@ Before coding I taught college IT classes, did remote client support for a clini
 </a>
 
 Upload your resume and get a scored digest of jobs that fit. Payments go through PayMongo QR Ph.<br>
-<sub>Next.js on Cloudflare Workers + D1 · Python scorer · Google sign-in</sub>
+Next.js on Cloudflare Workers + D1 · Python scorer · Google sign-in
 
 <a href="https://tapndine.online">
   <picture>
@@ -29,7 +29,7 @@ Upload your resume and get a scored digest of jobs that fit. Payments go through
 </a>
 
 NFC and QR table menus and ordering for restaurants in the Philippines, on top of the POS they already have.<br>
-<sub>Next.js · Cloudflare D1 · staff side installs as a PWA</sub>
+Next.js · Cloudflare D1 · staff side installs as a PWA
 
 ### Open source
 
