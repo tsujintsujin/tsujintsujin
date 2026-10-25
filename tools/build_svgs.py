@@ -68,7 +68,7 @@ def card(t, title, domain, tag):
 CARDS = {
     "thejobstash": ("TheJobStash", "thejobstash.com", "LIVE"),
     "tapndine": ("tapndine", "tapndine.online", "LIVE"),
-    "agent-office": ("Agent Office", "github.com/tsujintsujin/agent-office", "OPEN SOURCE"),
+    "ytautomation": ("YtAutomation", "github.com/tsujintsujin/YtAutomation", "PUBLIC REPO"),
 }
 
 for mode, t in THEMES.items():

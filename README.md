@@ -31,16 +31,17 @@ Next.js on Cloudflare Workers + D1 Â· Python scorer Â· Google sign-in
 NFC and QR table menus and ordering for restaurants in the Philippines, on top of the POS they already have.<br>
 Next.js Â· Cloudflare D1 Â· staff side installs as a PWA
 
-### Open source
+### On GitHub
 
-<a href="https://github.com/tsujintsujin/agent-office">
+<a href="https://github.com/tsujintsujin/YtAutomation">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/agent-office-dark.svg">
-    <img alt="Agent Office, github.com/tsujintsujin/agent-office" src="assets/agent-office-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ytautomation-dark.svg">
+    <img alt="YtAutomation, github.com/tsujintsujin/YtAutomation" src="assets/ytautomation-light.svg" width="100%">
   </picture>
 </a>
 
-Pixel-art office where my Claude Code agents show up working. Runs off hooks.
+Makes faceless narrated YouTube videos. I give it a topic and n8n does the voice, images, subtitles and final MP4 without me. Free tools only, voice runs locally.<br>
+n8n · Python · Chatterbox TTS · Gemini · OpenCut
 
 ### Stack
 
