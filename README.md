@@ -41,7 +41,7 @@ Next.js Â· Cloudflare D1 Â· staff side installs as a PWA
 </a>
 
 Makes faceless narrated YouTube videos. I give it a topic and n8n does the voice, images, subtitles and final MP4 without me. Free tools only, voice runs locally.<br>
-n8n · Python · Chatterbox TTS · Gemini · OpenCut
+n8n Â· Python Â· Chatterbox TTS Â· Gemini Â· OpenCut
 
 ### Stack
 
